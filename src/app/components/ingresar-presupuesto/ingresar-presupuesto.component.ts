@@ -24,6 +24,7 @@ export class IngresarPresupuestoComponent {
       this._router.navigate(['/gastos']);
   }else{
     this.cantidadIcorrecta = true;
+    
    
   }
 
